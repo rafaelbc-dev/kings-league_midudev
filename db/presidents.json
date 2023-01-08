@@ -2,51 +2,51 @@
   {
     "id": "iker-casillas",
     "name": "Iker Casillas",
-    "image": "iker-casillas.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/iker-casillas.png"
   },
   {
     "id": "juan-guarnizo",
     "name": "Juan Guarnizo",
-    "image": "juan-guarnizo.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/juan-guarnizo.png"
   },
   {
     "id": "adri-contreras",
     "name": "Adri Contreras",
-    "image": "adri-contreras.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/adri-contreras.png"
   },
   {
     "id": "gerard-romero",
     "name": "Gerard Romero",
-    "image": "gerard-romero.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/gerard-romero.png"
   },
   {
     "id": "kun-aguero",
     "name": "Kun Agüero",
-    "image": "kun-aguero.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/kun-aguero.png"
   },
   {
     "id": "perxitaa",
     "name": "Perxitaa",
-    "image": "perxitaa.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/perxitaa.png"
   },
   {
     "id": "rivers",
     "name": "Rivers",
-    "image": "rivers.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/rivers.png"
   },
   {
     "id": "ibai-llanos",
     "name": "Ibai Llanos",
-    "image": "ibai-llanos.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/ibai-llanos.png"
   },
   {
     "id": "spursito",
     "name": "Spursito",
-    "image": "spursito.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/spursito.png"
   },
   {
     "id": "thegrefg",
     "name": "TheGrefg",
-    "image": "thegrefg.png"
+    "image": "https://kings-league_midudev-api.rafaelbc-dev.workers.dev/static/presidents/thegrefg.png"
   }
 ]
